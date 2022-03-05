@@ -1,5 +1,5 @@
 # curly-octo-umbrella
 
-TWT session Day 1 demo repo
+TWT session Day 1 demo repo 
 
-Syntax for bulleted 
+This sentence was added to get a file change in.
