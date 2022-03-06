@@ -23,3 +23,5 @@ Physical characteristics
 
 **{{page.Mercury}}** is one of four terrestrial planets in the **Solar System**, and is a rocky body like **Earth**. It is the smallest planet in the **Solar System**, with an equatorial radius of 2,439.7 kilometres (1,516.0 mi).[3] **{{page.Mercury}}** is also smaller—albeit more massive—than the largest natural satellites in the **Solar System**, Ganymede and Titan. **{{page.Mercury}}** consists of approximately 70% metallic and 30% silicate material.
 
+{{ site.author }}, {{ site.place }}
+
