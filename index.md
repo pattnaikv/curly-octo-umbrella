@@ -39,4 +39,6 @@ And I was astounded to hear the little fellow greet it with:
 
 So then I made a drawing.
 
+[Link to demo topic](file_demo.md)
+
 
