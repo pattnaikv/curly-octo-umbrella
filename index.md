@@ -8,11 +8,11 @@ So I lived my life alone, without anyone that I could really talk to, until I ha
 
 The first night, then, I went to sleep on the sand, a thousand miles from any human habitation. I was more isolated than a shipwrecked sailor on a raft in the middle of the ocean. Thus you can imagine my amazement, at sunrise, when I was awakened by an odd little voice. It said:
 
-"If you please--draw me a {{page.name}}!"
+"If you please--draw me a {{ page.name }}!"
 
 "What!"
 
-"Draw me a {{page.name}}!"
+"Draw me a {{ page.name }}!"
 
 I jumped to my feet, completely thunderstruck. I blinked my eyes hard. I looked carefully all around me. And I saw a most extraordinary small person, who stood there examining me with great seriousness. Here you may see the best portrait that, later, I was able to make of him. But my drawing is certainly very much less charming than its model.
 
