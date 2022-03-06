@@ -9,8 +9,8 @@ Venus: Aphrodite
 
 Created at {{site.place}}
 
-{% for item in data_demo %}
-{{ item.name }} employee number is {{ item.person_number }}
+{% for item in datademo %}
+{{ item.name }} employee number is {{ item.personnumber }}
 {%endfor%}
 
 
