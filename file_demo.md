@@ -1,5 +1,10 @@
 ---
 layout: curly
+Mercury: Pan
+Sun: Apollo
+Solar System: Pantheon
+Earth: Gaia
+Venus: Aphrodite
 ---
 
 **Mercury** is the smallest planet in the **Solar System** and the closest to the **Sun**. Its orbit around the **Sun** takes 87.97 **Earth** days, the shortest of all the **Sun**'s planets. It is named after the Roman god Mercurius (**Mercury**), god of commerce, messenger of the gods, and mediator between gods and mortals, corresponding to the Greek god Hermes (Ἑρμῆς). Like **Venus**, **Mercury** orbits the **Sun** within **Earth**'s orbit as an inferior planet, and its apparent distance from the **Sun** as viewed from **Earth** never exceeds 28°. This proximity to the **Sun** means the planet can only be seen near the western horizon after **Sun**set or the eastern horizon before **Sun**rise, usually in twilight. At this time, it may appear as a bright star-like object, but is more difficult to observe than **Venus**. From **Earth**, the planet telescopically displays the complete range of phases, similar to **Venus** and the Moon, which recurs over its synodic period of approximately 116 days.
