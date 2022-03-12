@@ -7,6 +7,8 @@ Earth: Gaia
 Venus: Aphrodite
 ---
 
+{% include boilerplate.txt %}
+
 Created at {{site.place}}
 
 {% for item in site.data.datademo %}
